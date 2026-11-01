@@ -1,7 +1,5 @@
 # Xin chào, mình là Nhựt Đoàn 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=27D487&width=435&lines=Sinh+viên+Kỹ+thuật+Phần+mềm;Đam+mê+phát+triển+Web+%26+App)](https://git.io/typing-svg)
-
 ---
 
 ### 💻 Công cụ & Ngôn ngữ lập trình
