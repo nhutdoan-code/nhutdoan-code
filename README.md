@@ -15,11 +15,11 @@
 ### 📊 Thống kê hoạt động
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nhutdoan-code&show_icons=true&theme=radical" height="150" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhutdoan-code&layout=compact&theme=radical" height="150" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nhutdoan-code&show_icons=true&theme=radical&v=2026" height="150" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhutdoan-code&layout=compact&theme=radical&v=2026" height="150" alt="Top Langs" />
 </div>
 
 ---
 
 ### 🏆 Thành tựu
-[![Trophies](https://github-profile-trophy.vercel.app/?username=nhutdoan-code&theme=radical&no-frame=true&row=1&column=6)](https://github.com/nhutdoan-code)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=nhutdoan-code&theme=radical&no-frame=true&row=1&column=6&v=2026)](https://github.com/nhutdoan-code)
