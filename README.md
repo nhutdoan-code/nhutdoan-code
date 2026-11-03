@@ -10,16 +10,3 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
-
-### 📊 Thống kê hoạt động
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nhutdoan-code&show_icons=true&theme=radical&v=2026" height="150" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhutdoan-code&layout=compact&theme=radical&v=2026" height="150" alt="Top Langs" />
-</div>
-
----
-
-### 🏆 Thành tựu
-[![Trophies](https://github-profile-trophy.vercel.app/?username=nhutdoan-code&theme=radical&no-frame=true&row=1&column=6&v=2026)](https://github.com/nhutdoan-code)
